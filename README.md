@@ -1,5 +1,5 @@
 # color-organizer
 
 ## libraries used
-..* create-react-class <- createClass deprecated on React ^16
-..* uuid
+* create-react-class <- createClass deprecated on React ^16
+* uuid
